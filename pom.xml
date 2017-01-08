@@ -53,7 +53,7 @@
 	<artifactId>tomcat7-maven-plugin</artifactId>
 	<version>2.2</version>
 	<configuration>
-		<url>http://35.166.129.255:8082/</url>
+		<url>http://35.166.129.255:8082</url>
 		<server>TomcatServer</server>
 		<path>/mkyongWebApp</path>
 	</configuration>
