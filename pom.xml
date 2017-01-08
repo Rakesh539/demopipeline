@@ -56,8 +56,6 @@
 		<url>http://35.166.129.255
 :8082/</url>
 		<server>TomcatServer</server>
-		<username>admin</username>
-		<password>admin</password>
 		<path>/mkyongWebApp</path>
 	</configuration>
 </plugin>
