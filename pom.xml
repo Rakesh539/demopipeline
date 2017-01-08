@@ -54,7 +54,7 @@
 	<version>2.2</version>
 	<configuration>
 		<url>http://35.166.129.255
-:8082/manager</url>
+:8082/manager/text</url>
 		<server>TomcatServer</server>
 		<path>/mkyongWebApp</path>
 	</configuration>
