@@ -87,10 +87,9 @@
 		</plugins>
 	</build>
 	<distributionManagement>
-   <snapshotRepository>
-      <id>nexus-snapshots</id>
-      <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
-   </snapshotRepository>
+  <snapshotRepository>
+    <id>Raj</id>
+    <url>http://localhost:8081/nexus/content/repositories/Raj</url>
+  </snapshotRepository>
 </distributionManagement>
-
 </project>
