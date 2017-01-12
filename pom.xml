@@ -59,7 +59,7 @@
 	<configuration>
 		<url>http://35.165.58.200:8082/manager/text</url>
 		<server>TomcatServer</server>
-		<path>/mkyongWebApp</path>
+		<path>/Rajapaladugula</path>
 	</configuration>
 			</plugin>
 			 <plugin>
