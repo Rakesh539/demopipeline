@@ -6,12 +6,14 @@
 	<artifactId>gs-maven</artifactId>
 	<packaging>war</packaging>
 	<version>0.1.0-SNAPSHOT</version>
+	<!--
 	<distributionManagement>
   <snapshotRepository>
     <id>Raja</id>
     <url>http://35.165.58.200:8082/nexus-2.14.2-01/content/repositories/Raja</url>
   </snapshotRepository>
 </distributionManagement>
+-->
 <dependencies>
 		<!-- tag::joda[] -->
 		<dependency>
